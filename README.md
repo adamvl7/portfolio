@@ -3,10 +3,7 @@
 A personal portfolio website showcasing my projects, technical skills, and experience.
 
 ## 🌐 Live Demo
-(Insert your deployed link here — e.g. Firebase Hosting URL)
-
-## 📸 Screenshot
-![Portfolio Screenshot](./docs/screenshot.png)
+https://adamleportfolio-7b6f8.web.app./portfolio
 
 ## ✨ Features
 - Multi-section layout (Home, About, Projects, Contact)
